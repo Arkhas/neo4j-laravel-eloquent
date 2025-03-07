@@ -1,6 +1,6 @@
 {
-    "name": "global-innovation/neo4j-laravel-eloquent",
-    "version": "v2.3.0",
+    "name": "arkhas/neo4j-laravel-eloquent",
+    "version": "v1.0.0",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "neo4j",
@@ -24,6 +24,10 @@
         {
             "name": "Matias P.",
             "email": "github@matiasperrone.com"
+        },
+        {
+            "name": "Arkhas.",
+            "email": "github@arkhas.fr"
         }
     ],
     "require": {
