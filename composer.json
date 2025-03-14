@@ -1,6 +1,5 @@
 {
     "name": "arkhas/neo4j-laravel-eloquent",
-    "version": "v1.0.0",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "neo4j",
