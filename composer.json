@@ -31,12 +31,6 @@
     ],
     "require": {
         "php": ">=8.2",
-        "illuminate/container": "^11.0",
-        "illuminate/contracts": "^11.0",
-        "illuminate/database": "^11.0",
-        "illuminate/events": "^11.0",
-        "illuminate/support": "^11.0",
-        "illuminate/pagination": "^11.0",
         "nesbot/carbon": "^2.0|^3.0",
         "laudis/neo4j-php-client": "^2.3.3|^3.0"
     },
